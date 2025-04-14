@@ -15,3 +15,8 @@ This project analyzes the Titanic dataset (using only the training data) to unco
 <strong>Data Cleaning</strong>: Handled missing values in Age and Cabin columns.
 
 <strong>Visualizations</strong>: Comparative histograms, survival rate bar plots, and correlation heatmaps.
+
+## **📊 Key Visualization**  
+<div align="center">
+  <img src="images/survival-rate-heatmap.png" width="75%" style="border: 1px solid #eee;"/>
+</div>  
