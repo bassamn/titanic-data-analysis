@@ -2,7 +2,7 @@
 ### Exploratory Data Analysis (EDA) of Passenger Survival Patterns
 
 <div align="center">
-  <img src="images/titanic.png" width="60%">
+  <img src="images/titanic.png" width="70%">
 </div>
 
 ## 📌 Overview
@@ -18,5 +18,5 @@ This project analyzes the Titanic dataset (using only the training data) to unco
 
 ## **📊 Key Visualization**  
 <div align="center">
-  <img src="images/survival-rate-heatmap.png" width="75%" style="border: 1px solid #eee;"/>
+  <img src="images/survival-rate-heatmap.png" width="95%" style="border: 1px solid #eee;"/>
 </div>  
